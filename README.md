@@ -44,7 +44,7 @@ Source: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/overv
 
 - **Poster PDF**: [View Poster](https://www.umdgradmap.org/assets/poster/CHIMALILO.pdf)
 - **Project Abstract**: [Visit Site](https://www.umdgradmap.org/assets/writeup/chimalilo.pdf)
-
+- **Google Colab Notebook** - [Open Notebook](https://colab.research.google.com/drive/1rS4x0pNxM1K3n6e7sQvKwzWGMSP35KVt?usp=sharing)
 ---
 
 ## Technologies Used
